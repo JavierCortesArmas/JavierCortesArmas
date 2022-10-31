@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Hi I'm Javier! 👋
+```javascript
+const Javier = {
+  name: "Francisco Javier Cortes Armas",
+  age: 20,
+  pronouns: "he" | "him",
+  code: [C/C++, JavaScript, Python]
+}
+```
 <!--
 **JavierCortesArmas/JavierCortesArmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
