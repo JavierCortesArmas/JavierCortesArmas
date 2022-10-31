@@ -1,4 +1,4 @@
-### Hi I'm Javier! 👋
+### Hi I'm Javier! 👋🏻
 ```javascript
 const Javier = {
   name: "Francisco Javier Cortes Armas",
