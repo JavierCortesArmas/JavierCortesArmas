@@ -3,8 +3,8 @@
 const Javier = {
   name: "Francisco Javier Cortes Armas",
   age: 20,
-  pronouns: "he" | "him",
-  occupation: "Student"
+  occupation: "Student",
+  pronouns: "he" | "him"
 }
 ```
 ## Languages
