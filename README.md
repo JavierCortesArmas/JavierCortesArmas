@@ -1,4 +1,4 @@
-### Hi I'm Javier! 👋🏻
+### Hi I'm Javis! 👋🏻
 ```javascript
 const Javier = {
   name: "Francisco Javier Cortes Armas",
@@ -17,6 +17,7 @@ const Javier = {
 <p align="center">
 <a href="https://www.linkedin.com/in/javier-armas-3119b9199/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.reddit.com/user/Javier-Cortes-Armas"> <img src="https://img.icons8.com/color/48/000000/reddit.png"/></a>
+  <a href="https://twitter.com/javisdev"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 </p>
 
 
