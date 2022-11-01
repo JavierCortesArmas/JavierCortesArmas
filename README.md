@@ -4,9 +4,14 @@ const Javier = {
   name: "Francisco Javier Cortes Armas",
   age: 20,
   pronouns: "he" | "him",
-  code: [C/C++, JavaScript, Python]
+  occupation: "Student"
 }
 ```
+## Languages
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+
+## Tools
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/bash.png"/>
 <!--
 **JavierCortesArmas/JavierCortesArmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
