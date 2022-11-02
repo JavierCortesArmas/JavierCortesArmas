@@ -8,7 +8,9 @@ const Javier = {
 }
 ```
 ## Languages
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 ## Tools
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/bash.png"/>
@@ -19,6 +21,10 @@ const Javier = {
 <a href="https://www.reddit.com/user/Javier-Cortes-Armas"> <img src="https://img.icons8.com/color/48/000000/reddit.png"/></a>
   <a href="https://twitter.com/javisdev"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 </p>
+
+
+
+
 
 
 <!--
