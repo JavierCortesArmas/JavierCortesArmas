@@ -13,18 +13,17 @@ const Javier = {
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 ## Tools
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/bash.png"/>
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=101010)]()
+[![Node js](https://img.shields.io/badge/node_js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
+[![Visual studio code](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
+[![gnu bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)]()
 
-## You can find me at 
-<p align="center">
-<a href="https://www.linkedin.com/in/javier-armas-3119b9199/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://www.reddit.com/user/Javier-Cortes-Armas"> <img src="https://img.icons8.com/color/48/000000/reddit.png"/></a>
-  <a href="https://twitter.com/javisdev"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-</p>
-
-
-
-
+## You can find me at
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-armas-3119b9199/)
+[![Reddit](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Javier-Cortes-Armas)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/javisdev)
 
 
 <!--
