@@ -15,12 +15,12 @@ const Javier = {
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
 
 ## Tools
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=101010)]()
-[![Node js](https://img.shields.io/badge/node_js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
-[![Visual studio code](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
-[![gnu bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
+[![Node js](https://img.shields.io/badge/node_js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
+[![Visual studio code](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
+[![gnu bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
 
 ## Social Media
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-armas-3119b9199/) 
