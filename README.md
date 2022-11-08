@@ -32,6 +32,9 @@ const Javier = {
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/javisdev)
 [![Reddit](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Javier-Cortes-Armas)
 
+| Competition Name | 2022 | 
+| :----- | :----: | 
+| <img width="250px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC | The 2022 ICPC Gran Premio de Mexico <br /> Team: The Log(n+1) <br /> Rank: 71 
 
 <!--
 **JavierCortesArmas/JavierCortesArmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
