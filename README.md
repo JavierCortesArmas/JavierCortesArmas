@@ -26,7 +26,7 @@ const Javier = {
 [![Visual studio code](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
 [![gnu bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
 [![Vivaldi](https://img.shields.io/badge/vivaldi-EF3939?style=for-the-badge&logo=vivaldi&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
-
+ 
 ## My programming performances               
 | Competition Name | 2022 | 
 | :----- | :----: | 
