@@ -39,7 +39,7 @@ const Javier = {
 [![Reddit](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Javier-Cortes-Armas)
 
 <!--
-**JavierCortesArmas/JavierCortesArmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JavierCortesArmas/JavierCortesArmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
