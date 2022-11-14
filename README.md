@@ -28,7 +28,7 @@ const Javier = {
 [![Vivaldi](https://img.shields.io/badge/vivaldi-EF3939?style=for-the-badge&logo=vivaldi&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
 [![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
  [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
- [![terminal](https://img.shields.io/badge/terminal-E95420?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
+ [![terminal](https://img.shields.io/badge/terminal-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
  
 ## My programming performances               
 | Competition Name | 2022 | 
