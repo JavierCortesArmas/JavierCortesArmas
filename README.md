@@ -33,7 +33,7 @@ const Javier = {
 ## My programming performances               
 | Competition Name | 2022 | 
 | :----- | :----: | 
-| <p align = "center"> <img width="200px" src="https://static.wixstatic.com/media/088799_2ff03e2c9a2c4cdf94e4dca464d5cfa8~mv2.png"/> <br /> International Collegiate Programming Contest </p> | The 2022 ICPC Gran Premio de Mexico <br /> Team: The Log(n+1) <br /> 
+| <p align = "center"> <img width="200px" src="https://static.wixstatic.com/media/088799_2ff03e2c9a2c4cdf94e4dca464d5cfa8~mv2.png"/> <br /> International Collegiate Programming Contest </p> | The 2022 ICPC Gran Premio de Mexico <br /> Team: The Log(n+1) <br /> Highest Score Rank: 55
 
 ## Social Media
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-armas-3119b9199/) 
