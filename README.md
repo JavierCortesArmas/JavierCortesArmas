@@ -31,7 +31,7 @@ const Javier = {
  [![terminal](https://img.shields.io/badge/terminal-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
  
 ## My programming performances               
-| Competition Name | 2022 | 
+| Competition Name | 2023 | 
 | :----- | :----: | 
 | <p align = "center"> <img width="200px" src="https://static.wixstatic.com/media/088799_2ff03e2c9a2c4cdf94e4dca464d5cfa8~mv2.png"/> <br /> International Collegiate Programming Contest </p> | The 2022 ICPC Gran Premio de Mexico <br /> Highest Score Rank: 55 🏅 <br /> Team: The Log(n+1)
 
