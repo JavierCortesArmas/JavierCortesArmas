@@ -35,7 +35,7 @@ const Javier = {
 | :----- | :----: | 
 | <p align = "center"> <img width="200px" src="https://static.wixstatic.com/media/088799_2ff03e2c9a2c4cdf94e4dca464d5cfa8~mv2.png"/> <br /> International Collegiate Programming Contest </p> | The 2022 ICPC Gran Premio de Mexico <br /> Highest Score Rank: 55 🏅 <br /> Team: The Log(n+1) 
 ||| 
-|<p align = "center"> <img width="200px" src="https://ou.edu/soonerrover/img/about-URC/urc-logo.png"/> <br /> University Rover Challenge </p> | Mars Desert Research Station, Hanksville, Utah <br /> Team: UDEG Space
+|<p align = "center"> <img width="200px" src="https://ou.edu/soonerrover/img/about-URC/urc-logo.png"/> <br /> University Rover Challenge </p> | 2023 Mars Desert Research Station, Hanksville, Utah, United States <br /> Team: UDEG Space
 
 ## Social Media
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-armas-3119b9199/) 
