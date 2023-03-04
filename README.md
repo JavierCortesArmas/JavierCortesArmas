@@ -33,9 +33,14 @@ const Javier = {
 ## My programming performances               
 | Competition Name | 2023 | 
 | :----- | :----: | 
-| <p align = "center"> <img width="200px" src="https://static.wixstatic.com/media/088799_2ff03e2c9a2c4cdf94e4dca464d5cfa8~mv2.png"/> <br /> International Collegiate Programming Contest </p> | The 2022 ICPC Gran Premio de Mexico <br /> Highest Score Rank: 55 🏅 <br /> Team: The Log(n+1) 
+| <p align = "center"> <img width="180px" src="https://static.wixstatic.com/media/088799_2ff03e2c9a2c4cdf94e4dca464d5cfa8~mv2.png"/> <br /> International Collegiate Programming Contest </p> | The 2022 ICPC Gran Premio de Mexico <br /> Highest Score Rank: 55 🏅 <br /> Team: The Log(n+1) 
 ||| 
-|<p align = "center"> <img width="200px" src="https://ou.edu/soonerrover/img/about-URC/urc-logo.png"/> <br /> University Rover Challenge </p> | 2023 Mars Desert Research Station, Hanksville, Utah, United States <br /> Team: UDEG Space
+|<p align = "center"> <img width="150px" src="https://ou.edu/soonerrover/img/about-URC/urc-logo.png"/> <br /> University Rover Challenge </p> | 2023 Mars Desert Research Station, Hanksville, Utah, United States <br /> Team: UDEG Space
+||| 
+|<p align = "center"> <img width="150px" src="https://recruit.jpn.panasonic.com/AtCoder/images/AtCoder_logo.png"/> <br /> AtCoder Programming Contest </p> | International Programming Contest <br /> Contest Rating:
+||| 
+|<p align = "center"> <img width="120px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png"/> <br /> Codeforces Programming Contest </p> | International Programming Contest <br /> Contest Rating: 854
+
 
 ## Social Media
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-armas-3119b9199/) 
