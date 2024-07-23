@@ -29,7 +29,7 @@ const Javier = {
 [![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
  [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
  [![terminal](https://img.shields.io/badge/terminal-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://github.com/JavierCortesArmas)
- 
+<!-- 
 ## My programming performances               
 | Competition Name | 2023 | 
 | :----- | :----: | 
@@ -40,7 +40,7 @@ const Javier = {
 |<p align = "center"> <img width="150px" src="https://recruit.jpn.panasonic.com/AtCoder/images/AtCoder_logo.png"/> <br /> AtCoder Programming Contest </p> | International Programming Contest <br /> Contest Rating:
 ||| 
 |<p align = "center"> <img width="120px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png"/> <br /> Codeforces Programming Contest </p> | International Programming Contest <br /> Contest Rating: 854
-
+--> 
 
 ## Social Media
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-javier-cortes-armas-3119b9199/) 
